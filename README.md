@@ -27,3 +27,7 @@ print("El entero es %d y el real es %.2f" % (n, pi))
 Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog].
 En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
 vbn
+* [X] check1
+* [ ] check2
+* [ ] check3
+* [X] check4
